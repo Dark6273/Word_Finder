@@ -34,7 +34,7 @@ Tool Information Gathering Write With Python.
 ```sh
 git clone https://github.com/Dark6273/Word_Finder.git
 cd Word_Finder
-pip3 install -r requirements.txt
+pip3 install -r requirments.txt
 python3 main.py
 ```
 
