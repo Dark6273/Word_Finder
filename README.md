@@ -3,6 +3,7 @@
 Tool Information Gathering Write With Python.
 
 # PreView
+```sh
 
 >        ██╗    ██╗ ██████╗ ██████╗ ██████╗ 
 >        ██║    ██║██╔═══██╗██╔══██╗██╔══██╗
@@ -25,6 +26,7 @@ Tool Information Gathering Write With Python.
 >
 > ┌─[>> WORD FINDER <<]\
 > └──╼ [#] 
+```
 
 
 
